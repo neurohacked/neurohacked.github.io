@@ -19,6 +19,7 @@ In the age of a growing global economy, world travel has never been more imperat
 
 ## Design
 With a simple and accessible design in mind, Travel Aegis employs the use of:
+
 * Bootstrap CSS & Custom CSS
 * Font Awesome
 * Owl Carousel
@@ -28,6 +29,7 @@ With a simple and accessible design in mind, Travel Aegis employs the use of:
 ## Technologies
 
 Travel Aegis uses the following technologies under the hood:
+
 * JavaScript & jQuery
 * Moment JS
 * Bootstrap JS
