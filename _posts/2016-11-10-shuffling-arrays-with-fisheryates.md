@@ -53,7 +53,7 @@ const questions = [{
 new Quiz(questions);
 {% endhighlight %}
 
-My first guess at dealing with this was to use `Math.random()` on the array of questions. After some research, I discovered the extremely useful [Fisher–Yates Shuffle](https://en.wikipedia.org/wiki/Fisher%E2%80%93Yates_shuffle). Using this algorithm, we can create a function like this
+My first guess at dealing with this was to loop through the array of questions via a function along with applying some `Math.random()` to each array index then assigning those to a new array. This was a step in the right direction but there was a key component I was missing. After some research, I discovered the extremely useful [Fisher–Yates Shuffle](https://en.wikipedia.org/wiki/Fisher%E2%80%93Yates_shuffle) which "is an algorithm for generating a random permutation of a finite set—in plain terms, the algorithm shuffles the set". Using this algorithm, we can create this function
 
 {% highlight javascript %}
 // Shuffle function using the Fisher–Yates Shuffle
