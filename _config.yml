@@ -1,8 +1,8 @@
 # Site
-title:              "{ Patrick Thompson }"
+title:              "{Patrick Thompson}"
 username:           'Neurohacked'
 bio:                'Software Developer'
-description:        "I'm a Web Developer proficient at working under tight deadlines and heavy workloads with precise attention to detail and completion."
+description:        "I'm a Software Developer proficient at working under tight deadlines and heavy workloads with precise attention to detail and completion."
 reading_time:       true
 words_per_minute:   200
 logo:               'assets/img/logo.png'

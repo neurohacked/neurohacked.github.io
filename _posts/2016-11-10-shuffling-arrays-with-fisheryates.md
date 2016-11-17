@@ -2,9 +2,8 @@
 layout: post
 title: "Shuffling Arrays with Fisher–Yates"
 date: "2016-08-27 16:38:19 -0800"
-tag:
-- javascript
-- algorithm
+tags: [javascript, algorithm]
+comments: true
 ---
 Recently, on a project, I was tasked with the responsibility of randomizing an array of questions **and** the array of answers available for each question. At first, this sounded like a fairly simple task, but I soon discovered that it was a bit more involved.
 
@@ -83,4 +82,4 @@ for (let i = 0; i < shuffledQuestions.length; i++) {
 }
 {% endhighlight %}
 
-This all makes for a great, dynamic, and unpredictable set of questions and answers useable for a quiz.
+This all makes for a great dynamic and unpredictable set of questions and answers useable for a quiz.
