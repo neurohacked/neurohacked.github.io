@@ -9,8 +9,8 @@ logo:               'assets/img/logo.png'
 background:         'assets/img/placeholder-big.jpg'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             en_US
-url:                http://www.neurohacked.com   # with the https protocol
-# enforce_ssl:        www.neurohacked.com   # without any protocol
+url:                https://www.neurohacked.com   # with the https protocol
+enforce_ssl:        www.neurohacked.com   # without any protocol
 
 # Jekyll
 permalink:          /:title/
