@@ -23,6 +23,8 @@
     <meta property="og:site_name" content="{{ site.title }}">
     <meta property="og:image" content="{{ site.url }}/{{ site.logo }}">
     {% if site.google.verify %}
+    <!-- Canonical -->
+    <link rel="canonical" href=" { { site.url } }{ { page.url } }" />
     <!-- Webmaster Tools verfication -->
     <meta name="google-site-verification" content="{{ site.google.verify }}">{% endif %}
     {% if site.bing-verify %}    <meta name="msvalidate.01" content="{{ site.bing-verify }}">{% endif %}
