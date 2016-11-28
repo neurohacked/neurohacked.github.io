@@ -6,9 +6,9 @@ excerpt: "Full Stack Web Developer"
 tags: [about, web developer]
 comments: false
 ---
-Hello! My name is Patrick Thompson. I was born, raised and currently reside in Los Angeles, CA. By day, I currently work for [TheBrain Technologies](http://thebrain.com). In my spare time, I hack away on amazing projects as a Full Stack Developer and play retro video games. I am proficient at working under tight deadlines and heavy workloads with precise attention to detail and completion and I'm comfortable working both on a team and independently.
+Hello! My name is Patrick Thompson and I'm a software developer & open-source enthusiast. I was born, raised and currently reside in Los Angeles, CA. By day, I currently work for [TheBrain Technologies](http://thebrain.com). In my spare time, I enjoy hacking on all things software architecture, P2P, IoT and gaming.
 
-I enjoy problem solving and applying my creativity during the troubleshooting process. I appreciate the struggle that can sometimes come with diagnosing an issue and the satisfaction that comes with finding a solution.
+I am proficient at working under tight deadlines and heavy workloads with precise attention to detail and completion and I'm comfortable working both on a team and independently. I enjoy problem solving and applying my creativity during the troubleshooting process. I appreciate the struggle that can sometimes come with diagnosing an issue and the satisfaction that comes with finding a solution.
 
 **An overview of my skills and interests**:
 
