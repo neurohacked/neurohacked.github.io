@@ -12,7 +12,7 @@ Fun Society was created as an escape from the everyday world. An oasis where you
 
 <center>
 <figure>
-	<a href="http://travelaegis.com"><img src="../assets/img/projects/fs1.png"></a>
+	<a href="http://funsociety.club"><img src="../assets/img/projects/fs1.png"></a>
 	<figcaption><a href="http://funsociety.club" title="Travel Aegis Dashboard">Fun Society Quiz Selection</a></figcaption>
 </figure>
 </center>
