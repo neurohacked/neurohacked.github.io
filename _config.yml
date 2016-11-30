@@ -1,8 +1,8 @@
 # Site
 title:              "{Patrick Thompson}"
 username:           'Neurohacked'
-bio:                'Software Developer'
-description:        "I'm a Software Developer proficient at working under tight deadlines and heavy workloads with precise attention to detail and completion."
+bio:                'Web Developer'
+description:        "I'm a Web Developer & open-source enthusiast hacking on all things software architecture, P2P, IoT and gaming.."
 reading_time:       true
 words_per_minute:   200
 logo:               'assets/img/logo.png'
