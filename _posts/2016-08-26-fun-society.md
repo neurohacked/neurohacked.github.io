@@ -57,7 +57,7 @@ Fun Society uses [Firebase](https://firebase.google.com) to manage user accounts
   * More Questions.
   * Different categories.
 
-  ## Codebase
+## Codebase
   Check out the code on [GitHub](https://github.com/neurohacked/fun-society)
 
 ## Live
