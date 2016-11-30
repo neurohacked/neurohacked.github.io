@@ -13,7 +13,7 @@ Fun Society was created as an escape from the everyday world. An oasis where you
 <center>
 <figure>
 	<a href="http://travelaegis.com"><img src="../assets/img/projects/fs1.png"></a>
-	<figcaption><a href="http://travelaegis.com" title="Travel Aegis Dashboard">Fun Society Quiz Selection</a></figcaption>
+	<figcaption><a href="http://funsociety.club" title="Travel Aegis Dashboard">Fun Society Quiz Selection</a></figcaption>
 </figure>
 </center>
 
@@ -30,7 +30,7 @@ With an easy to use and familiar design in mind, Fun Society employs the use of:
 <center>
 <figure>
 	<a href="http://travelaegis.com"><img src="../assets/img/projects/fs2.png"></a>
-	<figcaption><a href="http://travelaegis.com" title="Travel Aegis Dashboard">Fun Society Question & Answer Pages (Games Category)</a></figcaption>
+	<figcaption><a href="http://funsociety.club" title="Travel Aegis Dashboard">Fun Society Question & Answer Pages (Games Category)</a></figcaption>
 </figure>
 </center>
 
