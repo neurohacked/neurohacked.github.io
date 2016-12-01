@@ -27,7 +27,6 @@ With a simple and accessible design in mind, Travel Aegis employs the use of:
 * Modernizer
 
 ## Technologies
-
 Travel Aegis uses the following technologies under the hood:
 
 * JavaScript & jQuery
@@ -41,6 +40,8 @@ Travel Aegis uses the following technologies under the hood:
 	* Google Places
 	* DarkSky
 
-## Live
+## Codebase
+Check out the code on [GitHub](https://github.com/neurohacked/travel-aegis)
 
+## Live
 Travel Aegis is available at [www.travelaegis.com](http://travelaegis.com)

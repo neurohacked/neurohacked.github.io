@@ -36,5 +36,4 @@ Hack the Planet is a fairly simple RPG game that emplys the use of JavaScript an
 Check out the code on [GitHub](https://github.com/neurohacked/hack-the-planet)
 
 ## Live
-
 Hack the Planet is available at [hack-the-planet.herokuapp.com](https://hack-the-planet.herokuapp.com)

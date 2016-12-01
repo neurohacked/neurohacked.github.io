@@ -38,7 +38,6 @@ With an easy to use and familiar design in mind, Fun Society employs the use of:
 Fun Society uses [Firebase](https://firebase.google.com) to manage user accounts/scores and APIs to display info related to the trivia questions.
 
 #### APIs Used
-
 * [GIPHY](https://api.giphy.com)
 * [OMDB](https://www.omdbapi.com)
 * [IGDB](https://www.igdb.com/api)
@@ -58,8 +57,7 @@ Fun Society uses [Firebase](https://firebase.google.com) to manage user accounts
   * Different categories.
 
 ## Codebase
-  Check out the code on [GitHub](https://github.com/neurohacked/fun-society)
+Check out the code on [GitHub](https://github.com/neurohacked/fun-society)
 
 ## Live
-
 Fun Society is available at [www.funsociety.club](http://www.funsociety.club)
