@@ -12,7 +12,7 @@ Hack the Planet uses constructors to create the available characters and prototy
 
 <center>
 <figure>
-	<a href="https://hack-the-planet.herokuapp.com/"><img src="../assets/img/projects/htp.png"></a>
+	<a href="https://hack-the-planet.herokuapp.com/"><img src="{{ site.url }}/assets/img/projects/htp.png"></a>
 	<figcaption><a href="https://hack-the-planet.herokuapp.com/" title="Travel Aegis Dashboard">Hack the Planet — Game in progress</a></figcaption>
 </figure>
 </center>

@@ -12,7 +12,7 @@ In the age of a growing global economy, world travel has never been more imperat
 
 <center>
 <figure>
-	<a href="http://travelaegis.com"><img src="../assets/img/projects/ta.png"></a>
+	<a href="http://travelaegis.com"><img src="{{ site.url }}/assets/img/projects/ta.png"></a>
 	<figcaption><a href="http://travelaegis.com" title="Travel Aegis Dashboard">Travel Aegis Dashboard</a></figcaption>
 </figure>
 </center>
