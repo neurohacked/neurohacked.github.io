@@ -8,7 +8,7 @@ project: true
 tags: [javascript, html, bootstrap, css]
 ---
 ## Concept
-Hack the Planet uses constructors to create the available characters and prototypes for functions that are used to interact between each character. When your character attacks a rival, they will counterattack. Your hacking power becomes progressively better with each hack so you must strategically choose your rival targets to come out on top.
+Hack the Planet uses constructors to create the available characters and prototypes for functions that are used to interact between each character. When your character attacks a rival they will counterattack, weakening your Data Connection (health). Your hacking power, on the other hand, becomes progressively better with each hack so you must strategically choose your rival targets to come out on top.
 
 <center>
 <figure>
@@ -18,7 +18,7 @@ Hack the Planet uses constructors to create the available characters and prototy
 </center>
 
 ## Technologies
-Hack the Planet is a fairly simple RPG game that emplys the use of JavaScript and jQuery with Bootstrap and Custom CSS for styling.
+Hack the Planet is a fairly basic RPG game that employs the use of JavaScript and jQuery with Bootstrap and Custom CSS for styling.
 
 ## Future development
 * Code refactoring -- switch cases and overall code optimization.
