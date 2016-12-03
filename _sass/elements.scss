@@ -15,7 +15,6 @@
 	}
 }
 .social-btn {
-	padding: 10px;
 	margin: 10px;
 	&:hover {
 		color: $color_mischka;
@@ -80,7 +79,7 @@
     }
 }
 .title .btn {
-    margin: 10px;
+    margin: 9px;
     @include font-rem(16);
     font-weight:300;
 }
