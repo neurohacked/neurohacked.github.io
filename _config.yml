@@ -13,7 +13,7 @@ url:                https://www.neurohacked.com   # with the https protocol
 enforce_ssl:        www.neurohacked.com   # without any protocol
 
 # Jekyll
-permalink:          pretty
+permalink:          /:title/
 markdown:           kramdown
 highlighter:        rouge
 kramdown:
