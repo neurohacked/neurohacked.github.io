@@ -17,6 +17,8 @@ Once you have the Amiibo Action Replay PowerSaves with the Powertag, the process
  * On Windows the location is: Users/_USER_/Powersaves for AMIIBO
  * On macOS the location is: ~/Documents/Powersaves For AMIIBO
 
+Note: If the Powersaves For AMIIBO folder doesn't exist just create it and be sure to extract your Amiibo bins to it.
+
 You'll notice that the zip you downloaded has most of the bin files organized into folders. It's definitely ok to keep the majority of these files in their folders for organization, but the Powersaves For AMIIBO software will only detect the bin files that you have in the root of the Powersaves for AMIIBO folder mentioned above so be sure to move any that you want to use into the root of the Powersaves for AMIIBO folder instead. I often move some I will be using a lot into the root folder and will move them back later to keep the organization. For example, while playing Breath of the Wild, I have all of the Zelda related bin files in the root and everything else is kept in their original folders as I don't bother using any other Amiibo with this game. You may also choose to simply dump every bin file into the root folder, but keep in mind that you will have a lot more Amiibo to scroll through in the software if you do this. It's up to you.
 
 Next, if you haven't already, install the Powersaves for AMIIBO software and run it. It will attempt to connect to your hardware and then prompt you to do so if you haven't:
