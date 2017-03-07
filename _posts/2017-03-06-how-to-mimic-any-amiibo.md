@@ -19,9 +19,9 @@ Once you have the Amiibo Action Replay PowerSaves with the Powertag, the process
 
 Note: If the Powersaves For AMIIBO folder doesn't exist just create it and be sure to extract your Amiibo bins to it.
 
-You'll notice that the zip you downloaded has most of the bin files organized into folders. It's definitely ok to keep the majority of these files in their folders for organization, but the Powersaves For AMIIBO software will only detect the bin files that you have in the root of the Powersaves for AMIIBO folder mentioned above so be sure to move any that you want to use into the root of the Powersaves for AMIIBO folder instead. I often move some I will be using a lot into the root folder and will move them back later to keep the organization. For example, while playing Breath of the Wild, I have all of the Zelda related bin files in the root and everything else is kept in their original folders as I don't bother using any other Amiibo with this game. You may also choose to simply dump every bin file into the root folder, but keep in mind that you will have a lot more Amiibo to scroll through in the software if you do this. It's up to you.
+You'll notice that the zip you downloaded has most of the bin files organized into folders. It's definitely ok to keep the majority of these files in their folders for organization, but the Powersaves for AMIIBO software will only detect the bin files that you have in the root of the Powersaves For AMIIBO folder mentioned above so be sure to move any that you want to use into the root of the Powersaves For AMIIBO folder instead. I often move some I will be using a lot into the root folder and will move them back later to keep the organization. For example, while playing Breath of the Wild, I have all of the Zelda related bin files in the root and everything else is kept in their original folders as I don't bother using any other Amiibo with this game. You may also choose to simply dump every bin file into the root folder, but keep in mind that you will have a lot more Amiibo to scroll through in the software if you do this. It's up to you.
 
-Next, if you haven't already, install the Powersaves for AMIIBO software and run it. It will attempt to connect to your hardware and then prompt you to do so if you haven't:
+Next, if you haven't already, install the Powersaves for AMIIBO software and run it. It will attempt to connect to your PowerSaves Portal hardware and then prompt you to do so if you haven't:
 
 ![](https://i.imgur.com/0x5QzNi.png)
 
@@ -33,14 +33,16 @@ Place your Powertag on the PowerSaves Portal. You should see something that look
 
 ![](https://i.imgur.com/AtNa4RE.png)
 
-Click the Powertag button. If you followed the steps from earlier about moving the bin files into the Powersaves for AMIIBO root folder, you should see some Amiibo to choose from.
+Click the Powertag button. If you followed the steps from earlier about moving the bin files into the Powersaves For AMIIBO root folder, you should see some Amiibo to choose from. If you don't, go back and follow those steps again.
 
 ![](https://i.imgur.com/VSLn7IC.png)
 
-If you don't see any, go back and follow those steps again. Highlight your choice of Amiibo then click the check button to confirm your decision. Next, confirm restoring the Powertag.
+Highlight your choice of Amiibo then click the check button to confirm your decision. Next, confirm restoring the Powertag.
 
 ![](https://i.imgur.com/wrWaMhd.png)
 
 It should take a couple seconds to write to it and that's it! Your Powertag will act as the Amiibo you chose. Try scanning it!
 
-If you want to use a different Amiibo just write another Amiibo bin to the Powertag using the same process and you're good to go. Note: You can rewrite to the Powertag over and over but it can only act as one Amiibo at a time so if you'll be scanning multiple Amiibo you will have to write to the Powertag, scan it, write to the Powertag, scan it, etc. This process is fairly quick for the most part and it certainly beats having to purchase every single Amiibo. Enjoy!
+If you want to use a different Amiibo just write another Amiibo bin to the Powertag using the same process and you're good to go.
+
+Note: You can rewrite to the Powertag over and over but it can only act as one Amiibo at a time so if you'll be scanning multiple Amiibo you will have to write to the Powertag, scan it, write to the Powertag, scan it, etc. This process is fairly quick for the most part and it certainly beats having to purchase every single Amiibo. Enjoy!
