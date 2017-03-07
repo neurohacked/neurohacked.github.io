@@ -25,14 +25,22 @@ Next, if you haven't already, install the Powersaves for AMIIBO software and run
 
 ![](https://i.imgur.com/0x5QzNi.png)
 
- Connect it via the provided USB to your machine. Once it has initialized, you should see a prompt asking you to place an Amiibo on the PowerSaves Portal:
+ Connect it via the provided USB to your machine. Once it has initialized, you should see a prompt asking you to place an Amiibo on the PowerSaves Portal.
 
- ![](https://i.imgur.com/43ts5HE.jpg)
+ ![](https://i.imgur.com/dtIZqMI.png)
 
 Place your Powertag on the PowerSaves Portal. You should see something that looks like this:
 
-![](https://i.imgur.com/enJ1zB4.png)
+![](https://i.imgur.com/AtNa4RE.png)
 
-Yours should say Powertag in the bottom right button and not About. Click the Powertag button. If you followed the steps from earlier about moving the bin files into the Powersaves for AMIIBO root folder, you should see some Amiibo to choose from. If you don't see any, go back and follow those steps again. Highlight your choice of Amiibo then confirm your decision. Next, confirm writing to the Powertag. It should take a couple seconds to write to it. That's it! Your Powertag will act as the Amiibo you chose. Try scanning it!
+Click the Powertag button. If you followed the steps from earlier about moving the bin files into the Powersaves for AMIIBO root folder, you should see some Amiibo to choose from.
+
+![](https://i.imgur.com/VSLn7IC.png)
+
+If you don't see any, go back and follow those steps again. Highlight your choice of Amiibo then click the check button to confirm your decision. Next, confirm restoring the Powertag.
+
+![](https://i.imgur.com/wrWaMhd.png)
+
+It should take a couple seconds to write to it and that's it! Your Powertag will act as the Amiibo you chose. Try scanning it!
 
 If you want to use a different Amiibo just write another Amiibo bin to the Powertag using the same process and you're good to go. Note: You can rewrite to the Powertag over and over but it can only act as one Amiibo at a time so if you'll be scanning multiple Amiibo you will have to write to the Powertag, scan it, write to the Powertag, scan it, etc. This process is fairly quick for the most part and it certainly beats having to purchase every single Amiibo. Enjoy!
