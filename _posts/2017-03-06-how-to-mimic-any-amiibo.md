@@ -46,3 +46,5 @@ It should take a couple seconds to write to it and that's it! Your Powertag will
 If you want to use a different Amiibo just write another Amiibo bin to the Powertag using the same process and you're good to go.
 
 Note: You can rewrite to the Powertag over and over but it can only act as one Amiibo at a time so if you'll be scanning multiple Amiibo you will have to write to the Powertag, scan it, write to the Powertag, scan it, etc. This process is fairly quick for the most part and it certainly beats having to purchase every single Amiibo. Enjoy!
+
+**Hint**: You can sometimes find un-released Amiibo bins at the [nfc-bank](https://nfc-bank.com/bins.php?categoryid=2&tabid=39). 😉
