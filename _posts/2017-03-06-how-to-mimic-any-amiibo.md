@@ -14,7 +14,7 @@ comments: true
 
 Once you have the Amiibo Action Replay PowerSaves with the Powertag, the process is very simple. One more thing you should do before getting started is making sure to unzip the Amiibo bin zip file you downloaded into the location that the Powersaves for AMIIBO software will look for:
 
- * On Windows the location is: C:\Users\%USERNAME%\PowerSaves For AMIIBO\
+ * On Windows the location is: C:\Users\%USERNAME%\PowerSaves For AMIIBO
  * On macOS the location is: ~/Documents/Powersaves For AMIIBO
 
 Note: If the Powersaves For AMIIBO folder doesn't exist just create it and be sure to extract your Amiibo bins to it.
