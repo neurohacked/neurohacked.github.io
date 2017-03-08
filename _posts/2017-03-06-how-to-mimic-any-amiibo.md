@@ -49,4 +49,4 @@ Note: You can rewrite to the Powertag over and over but it can only act as one A
 
 **Hint**: You can sometimes find un-released Amiibo bins at the [nfc-bank](https://nfc-bank.com/bins.php?categoryid=2&tabid=39). 😉
 
-PS: There are other ways of spoofing Amiibo if you search the web, but this is the easiest, most convenient and most approachable method, in my opinion. 
+PS: There are other ways of spoofing Amiibo if you search the web, but this is the easiest, most convenient and most approachable method that allows you to get started quickly, in my opinion. 
