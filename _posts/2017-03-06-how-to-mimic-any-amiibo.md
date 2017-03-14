@@ -6,7 +6,7 @@ tags: [nintendo, switch, amiibo, action replay, powersaves, breath of the wild]
 comments: true
 ---
 #### Requirements:
-* An [Amiibo Action Replay PowerSaves](http://www.gamestop.com/wii-u/accessories/amiibo-action-replay-powersaves/127307). Be sure to get the version that includes a Powertag, which you can see on the bottom left of the box.
+* An [Amiibo Action Replay PowerSaves](http://www.gamestop.com/wii-u/accessories/amiibo-action-replay-powersaves/127307). Be sure to get the version that includes a Powertag, which you can see on the bottom left of the box. You can also purchase one of the directly from [Code Junkies](http://uk.codejunkies.com/Products/PowerSaves-for-Amiibo__EF001200.aspx), but if you are in the US it's cheaper to get it at GameStop.
 * A Windows or macOS machine to run the Powersaves for AMIIBO software, which you can download from [Code Junkies](http://codejunkies.com/powersaves-for-amiibo/).
 * Amiibo bin files, which you can get from [HERE](http://www.3dsiso.com/amiibo-bin-file-downloads-for-the-amiiqo-/277093-mega-complete-amiibo-set.html).  You'll need to create an account to gain access to the download.
 
@@ -14,8 +14,8 @@ comments: true
 
 Once you have the Amiibo Action Replay PowerSaves with the Powertag, the process is very simple. One more thing you should do before getting started is making sure to unzip the Amiibo bin zip file you downloaded into the location that the Powersaves for AMIIBO software will look for:
 
- * On Windows the location is: C:\Users\%USERNAME%\PowerSaves For AMIIBO
- * On macOS the location is: ~/Documents/Powersaves For AMIIBO
+ * On Windows the location is: `C:\Users\%USERNAME%\PowerSaves For AMIIBO`
+ * On macOS the location is: `~/Documents/Powersaves For AMIIBO`
 
 Note: If the Powersaves For AMIIBO folder doesn't exist just create it and be sure to extract your Amiibo bins to it.
 
@@ -49,4 +49,4 @@ Note: You can rewrite to the Powertag over and over but it can only act as one A
 
 **Hint**: You can sometimes find un-released Amiibo bins at the [nfc-bank](https://nfc-bank.com/bins.php?categoryid=2&tabid=39). 😉
 
-PS: There are other ways of spoofing Amiibo if you search the web, but this is the easiest, most convenient and most approachable method that allows you to get started quickly, in my opinion. 
+PS: There are other ways of spoofing Amiibo if you search the web, but this is the easiest, most convenient and most approachable method that allows you to get started quickly, in my opinion.
