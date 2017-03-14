@@ -6,7 +6,7 @@ tags: [nintendo, switch, amiibo, action replay, powersaves, breath of the wild]
 comments: true
 ---
 #### Requirements:
-* An [Amiibo Action Replay PowerSaves](http://www.gamestop.com/wii-u/accessories/amiibo-action-replay-powersaves/127307). Be sure to get the version that includes a Powertag, which you can see on the bottom left of the box. You can also purchase one of the directly from [Code Junkies](http://uk.codejunkies.com/Products/PowerSaves-for-Amiibo__EF001200.aspx), but if you are in the US it's cheaper to get it at GameStop.
+* An [Amiibo Action Replay PowerSaves](http://www.gamestop.com/wii-u/accessories/amiibo-action-replay-powersaves/127307). Be sure to get the version that includes a Powertag, which you can see on the bottom left of the box. You can purchase one directly from [Code Junkies](http://uk.codejunkies.com/Products/PowerSaves-for-Amiibo__EF001200.aspx), but if you are in the US it's cheaper to get it at [GameStop](http://www.gamestop.com/wii-u/accessories/amiibo-action-replay-powersaves/127307).
 * A Windows or macOS machine to run the Powersaves for AMIIBO software, which you can download from [Code Junkies](http://codejunkies.com/powersaves-for-amiibo/).
 * Amiibo bin files, which you can get from [HERE](http://www.3dsiso.com/amiibo-bin-file-downloads-for-the-amiiqo-/277093-mega-complete-amiibo-set.html).  You'll need to create an account to gain access to the download.
 
