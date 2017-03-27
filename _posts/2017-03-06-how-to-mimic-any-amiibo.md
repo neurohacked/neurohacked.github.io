@@ -11,7 +11,7 @@ comments: true
 * Amiibo bin files, which you can get from [HERE](http://www.3dsiso.com/amiibo-bin-file-downloads-for-the-amiiqo-/277093-mega-complete-amiibo-set.html).  You'll need to create an account to gain access to the download.
 
 
-¹ It appears that GameStop has raised the price ()$24.99 as of 27 March 2017; The price was at $14.99 during the first couple weeks of the Switch release), probably because the popularity has increased with the release of the Switch and many people purchasing these to use for Breath of the Wild exclusive items.
+¹ It appears that GameStop has raised the price ($24.99 as of 27 March 2017; The price was at $14.99 during the first couple weeks of the Switch release), probably because the popularity has increased with the release of the Switch and many people purchasing these to use for Breath of the Wild exclusive items.
 
 #### Creating the Amiibo:
 
