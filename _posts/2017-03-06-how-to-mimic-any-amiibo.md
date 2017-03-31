@@ -8,10 +8,12 @@ comments: true
 #### Requirements:
 * An [Amiibo Action Replay PowerSaves](http://www.gamestop.com/wii-u/accessories/amiibo-action-replay-powersaves/127307). Be sure to get the version that includes a Powertag, which you can see on the bottom left of the box. You can purchase one directly from [Code Junkies](http://uk.codejunkies.com/Products/PowerSaves-for-Amiibo__EF001200.aspx), but if you are in the US it's **usually** cheaper to get it at [GameStop](http://www.gamestop.com/wii-u/accessories/amiibo-action-replay-powersaves/127307) ¹.
 * A Windows or macOS machine to run the Powersaves for AMIIBO software, which you can download from [Code Junkies](http://codejunkies.com/powersaves-for-amiibo/).
-* Amiibo bin files, which you can get from [HERE](http://www.3dsiso.com/showthread.php?277093-MEGA-Most-Complete-Amiibo-Set).  You'll need to create an account to gain access to the download.
+* Amiibo bin files, which you can get from [HERE](http://www.3dsiso.com/showthread.php?277093-MEGA-Most-Complete-Amiibo-Set).  You'll need to create an account to gain access to the download ².
 
 
 ¹ It appears that GameStop has raised the price ($24.99 as of 27 March 2017; The price was at $14.99 during the first couple weeks of the Switch release), probably because the popularity has increased with the release of the Switch and many people purchasing these to use for Breath of the Wild exclusive items.
+
+² [Direct link to Most Complete Amiibo Set](https://mega.nz/#F!Z4UWVIYS!HsOvjW4tUMHE40ECIG7sMQ) and [MCAS Powersaves](https://mega.nz/#F!A8lXAYbK!BPf6TBbPtuZUFFs2JHZdQw).
 
 #### Creating the Amiibo:
 
