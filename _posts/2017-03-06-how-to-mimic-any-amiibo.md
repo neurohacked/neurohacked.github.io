@@ -13,7 +13,7 @@ comments: true
 
 ¹ It appears that GameStop has raised the price ($24.99 as of 27 March 2017; The price was at $14.99 during the first couple weeks of the Switch release), probably because the popularity has increased with the release of the Switch and many people purchasing these to use for Breath of the Wild exclusive items.
 
-² [Direct link to Most Complete Amiibo Set](https://mega.nz/#F!Z4UWVIYS!HsOvjW4tUMHE40ECIG7sMQ) and [MCAS Powersaves](https://mega.nz/#F!A8lXAYbK!BPf6TBbPtuZUFFs2JHZdQw).
+² [Most Complete Amiibo Set](https://mega.nz/#F!Z4UWVIYS!HsOvjW4tUMHE40ECIG7sMQ) and [MCAS Powersaves](https://mega.nz/#F!A8lXAYbK!BPf6TBbPtuZUFFs2JHZdQw).
 
 #### Creating the Amiibo:
 
