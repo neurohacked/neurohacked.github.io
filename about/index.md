@@ -13,7 +13,7 @@ I am proficient at working under tight deadlines and heavy workloads with precis
 **An overview of my skills and interests**:
 
 ### Technical Skills
-JavaScript, ES6, jQuery, Node.js, React, Ruby, HTML, CSS, Less, Sass, Markdown, Jekyll, YAML, Handlebars, Liquid, Underscore, Bootstrap, Express, Meteor, EmberJS, VueJS, Next.js, MySQL, MongoDB, AWS, Docker, Heroku, Gulp, Grunt, Bower, Git, Sequelize, VirtualBox, Vagrant
+JavaScript, jQuery, Node.js, React, HTML, CSS, Less, Sass, Markdown, Jekyll, Handlebars, Bootstrap, Express, Next.js, MySQL, MongoDB, AWS, Heroku, Gulp, Grunt, Bower, Git, Sequelize, VirtualBox
 
 ### Non-technical Skills
 Critical Thinking, Agile Development, Team Workflow, Process Building, Mind Mapping
