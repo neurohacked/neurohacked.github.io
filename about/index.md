@@ -23,4 +23,4 @@ Information Security, Video & Board Games, Comics, Sci-Fi & Dark Humor Novels, C
 
 ---
 
-[View My Resume](https://drive.google.com/open?id=0ByCfMQspbhXdUmhnaUZ5QjNCZmc){: .btn}
+[View My Resume](https://drive.google.com/open?id=0BxabrtEkbox-ZVdySzAtMW5faTQ){: .btn}
